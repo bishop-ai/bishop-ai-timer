@@ -12,5 +12,8 @@
         "email": "nova706@gmail.com",
         "url": "http://www.davidpaulhamilton.net/"
     },
+    "homepage": "https://github.com/bishop-ai/bishop-ai-timer",
+    "bugs": "https://github.com/bishop-ai/bishop-ai-timer/issues",
+    "repository": "github:bishop-ai/bishop-ai-timer",
     "dependencies": {}
 }
